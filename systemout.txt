@@ -1,0 +1,242 @@
+xtracted year numbers for filtering: [2025, 2026, 2027] : [AFR]
+upperPopulations[AFR]
+Checking for population key: UHP against filter: false
+Fetching values for category ID: 1168
+Applying nested filter with fiscal years: [fy2025, fy2026, fy2027]
+Applying nested filter with sourceValues: [AFR={2025={apr=0, aug=0, dec=0, feb=0, jan=0, jul=0, jun=0, mar=0, may=0, nov=0, oct=0, sep=0}, 2026={apr=0, aug=200, dec=0, feb=0, jan=0, jul=200, jun=200, mar=0, may=200, nov=0, oct=0, sep=200}, 2027={apr=833, aug=834, dec=833, feb=833, jan=833, jul=834, jun=834, mar=833, may=833, nov=833, oct=833, sep=834}}]
+Extracted year numbers for filtering: [2025, 2026, 2027] : [AFR]
+upperPopulations[AFR]
+Checking for population key: AFR against filter: true
+Innter Entry -> 2027={apr=833, aug=834, dec=833, feb=833, jan=833, jul=834, jun=834, mar=833, may=833, nov=833, oct=833, sep=834}
+Innter Entry -> 2026={apr=0, aug=200, dec=0, feb=0, jan=0, jul=200, jun=200, mar=0, may=200, nov=0, oct=0, sep=200}
+Innter Entry -> 2025={apr=0, aug=0, dec=0, feb=0, jan=0, jul=0, jun=0, mar=0, may=0, nov=0, oct=0, sep=0}
+Fetching values for category ID: 1167
+Applying nested filter with fiscal years: [fy2025, fy2026, fy2027]
+Applying nested filter with sourceValues: [UHP={2025={apr=0, aug=0, dec=0, feb=0, jan=0, jul=0, jun=0, mar=0, may=0, nov=0, oct=0, sep=0}, 2026={apr=0, aug=0, dec=0, feb=0, jan=0, jul=0, jun=0, mar=0, may=0, nov=0, oct=0, sep=0}, 2027={apr=0, aug=0, dec=0, feb=0, jan=0, jul=0, jun=0, mar=0, may=0, nov=0, oct=0, sep=0}}]
+Extracted year numbers for filtering: [2025, 2026, 2027] : [AFR]
+upperPopulations[AFR]
+Checking for population key: UHP against filter: false
+Fetching values for category ID: 1171
+Applying nested filter with fiscal years: [fy2025, fy2026, fy2027]
+Applying nested filter with sourceValues: [OP1={2025={apr=0, aug=0, dec=0, feb=0, jan=0, jul=0, jun=0, mar=0, may=0, nov=0, oct=0, sep=0}, 2026={apr=0, aug=0, dec=0, feb=0, jan=0, jul=0, jun=0, mar=0, may=0, nov=0, oct=0, sep=0}, 2027={apr=0, aug=0, dec=0, feb=0, jan=0, jul=0, jun=0, mar=0, may=0, nov=0, oct=0, sep=0}}]
+Extracted year numbers for filtering: [2025, 2026, 2027] : [AFR]
+upperPopulations[AFR]
+Checking for population key: OP1 against filter: false
+Fetching values for category ID: 1170
+Applying nested filter with fiscal years: [fy2025, fy2026, fy2027]
+Applying nested filter with sourceValues: [CHE={2025={apr=0, aug=38, dec=0, feb=0, jan=0, jul=38, jun=38, mar=0, may=38, nov=0, oct=0, sep=38}, 2026={apr=0, aug=0, dec=0, feb=0, jan=0, jul=0, jun=0, mar=0, may=0, nov=0, oct=0, sep=0}, 2027={apr=0, aug=0, dec=0, feb=0, jan=0, jul=0, jun=0, mar=0, may=0, nov=0, oct=0, sep=0}}]
+Extracted year numbers for filtering: [2025, 2026, 2027] : [AFR]
+upperPopulations[AFR]
+Checking for population key: CHE against filter: false
+Fetching values for category ID: 1169
+Applying nested filter with fiscal years: [fy2025, fy2026, fy2027]
+Applying nested filter with sourceValues: [SIV={2025={apr=0, aug=200, dec=0, feb=0, jan=0, jul=200, jun=200, mar=0, may=200, nov=0, oct=0, sep=200}, 2026={apr=0, aug=0, dec=0, feb=0, jan=0, jul=0, jun=0, mar=0, may=0, nov=0, oct=0, sep=0}, 2027={apr=0, aug=0, dec=0, feb=0, jan=0, jul=0, jun=0, mar=0, may=0, nov=0, oct=0, sep=0}}]
+Extracted year numbers for filtering: [2025, 2026, 2027] : [AFR]
+upperPopulations[AFR]
+Checking for population key: SIV against filter: false
+Fetching values for category ID: 1172
+Applying nested filter with fiscal years: [fy2025, fy2026, fy2027]
+Applying nested filter with sourceValues: [OP2={2025={apr=0, aug=0, dec=0, feb=0, jan=0, jul=0, jun=0, mar=0, may=0, nov=0, oct=0, sep=0}, 2026={apr=0, aug=0, dec=0, feb=0, jan=0, jul=0, jun=0, mar=0, may=0, nov=0, oct=0, sep=0}, 2027={apr=0, aug=0, dec=0, feb=0, jan=0, jul=0, jun=0, mar=0, may=0, nov=0, oct=0, sep=0}}]
+Extracted year numbers for filtering: [2025, 2026, 2027] : [AFR]
+upperPopulations[AFR]
+Checking for population key: OP2 against filter: false
+Fetching values for category ID: 1173
+Applying nested filter with fiscal years: [fy2025, fy2026, fy2027]
+Applying nested filter with sourceValues: [REF={2025={apr=0, aug=0, dec=0, feb=0, jan=0, jul=0, jun=0, mar=0, may=0, nov=0, oct=0, sep=0}, 2026={apr=0, aug=0, dec=0, feb=0, jan=0, jul=0, jun=0, mar=0, may=0, nov=0, oct=0, sep=0}, 2027={apr=0, aug=0, dec=0, feb=0, jan=0, jul=0, jun=0, mar=0, may=0, nov=0, oct=0, sep=0}}]
+Extracted year numbers for filtering: [2025, 2026, 2027] : [AFR]
+upperPopulations[AFR]
+Checking for population key: REF against filter: false
+Fetching values for category ID: 1174
+Applying nested filter with fiscal years: [fy2025, fy2026, fy2027]
+Applying nested filter with sourceValues: [ASY={2025={apr=0, aug=4000, dec=0, feb=0, jan=0, jul=4000, jun=4000, mar=0, may=3262, nov=0, oct=0, sep=4000}, 2026={apr=0, aug=0, dec=0, feb=0, jan=0, jul=0, jun=0, mar=0, may=0, nov=0, oct=0, sep=0}, 2027={apr=0, aug=0, dec=0, feb=0, jan=0, jul=0, jun=0, mar=0, may=0, nov=0, oct=0, sep=0}}]
+Extracted year numbers for filtering: [2025, 2026, 2027] : [AFR]
+upperPopulations[AFR]
+Checking for population key: ASY against filter: false
+Fetching values for category ID: 1175
+Applying nested filter with fiscal years: [fy2025, fy2026, fy2027]
+Applying nested filter with sourceValues: [AHP={2025={apr=0, aug=0, dec=0, feb=0, jan=0, jul=0, jun=0, mar=0, may=0, nov=0, oct=0, sep=0}, 2026={apr=0, aug=0, dec=0, feb=0, jan=0, jul=0, jun=0, mar=0, may=0, nov=0, oct=0, sep=0}, 2027={apr=0, aug=0, dec=0, feb=0, jan=0, jul=0, jun=0, mar=0, may=0, nov=0, oct=0, sep=0}}]
+Extracted year numbers for filtering: [2025, 2026, 2027] : [AFR]
+upperPopulations[AFR]
+Checking for population key: AHP against filter: false
+Added 10 filtered categories of type arrival_distributions
+Fetching values for category ID: 1144
+Applying simple filter with fiscal years: [fy2025, fy2026, fy2027]
+Fetching values for category ID: 1145
+Applying simple filter with fiscal years: [fy2025, fy2026, fy2027]
+Fetching values for category ID: 1146
+Applying simple filter with fiscal years: [fy2025, fy2026, fy2027]
+Fetching values for category ID: 1148
+Applying simple filter with fiscal years: [fy2025, fy2026, fy2027]
+Fetching values for category ID: 1147
+Applying simple filter with fiscal years: [fy2025, fy2026, fy2027]
+Fetching values for category ID: 1159
+Applying simple filter with fiscal years: [fy2025, fy2026, fy2027]
+Fetching values for category ID: 1150
+Applying simple filter with fiscal years: [fy2025, fy2026, fy2027]
+Fetching values for category ID: 1149
+Applying simple filter with fiscal years: [fy2025, fy2026, fy2027]
+Fetching values for category ID: 1160
+Applying simple filter with fiscal years: [fy2025, fy2026, fy2027]
+Fetching values for category ID: 1161
+Applying simple filter with fiscal years: [fy2025, fy2026, fy2027]
+Added 10 filtered categories of type arrival_assumptions
+Fetching values for category ID: 1127
+Applying simple filter with fiscal years: [fy2025, fy2026, fy2027]
+Fetching values for category ID: 1129
+Applying simple filter with fiscal years: [fy2025, fy2026, fy2027]
+Fetching values for category ID: 1132
+Applying simple filter with fiscal years: [fy2025, fy2026, fy2027]
+Fetching values for category ID: 1130
+Applying simple filter with fiscal years: [fy2025, fy2026, fy2027]
+Fetching values for category ID: 1128
+Applying simple filter with fiscal years: [fy2025, fy2026, fy2027]
+Fetching values for category ID: 1126
+Applying simple filter with fiscal years: [fy2025, fy2026, fy2027]
+Fetching values for category ID: 1131
+Applying simple filter with fiscal years: [fy2025, fy2026, fy2027]
+Fetching values for category ID: 1133
+Applying simple filter with fiscal years: [fy2025, fy2026, fy2027]
+Added 8 filtered categories of type other_costs
+Fetching values for category ID: 1151
+Applying nested filter with fiscal years: [fy2025, fy2026, fy2027]
+Applying nested filter with sourceValues: [MG={2025={apr=30%, aug=30%, dec=30%, feb=30%, jan=30%, jul=30%, jun=30%, mar=30%, may=30%, nov=30%, oct=30%, sep=30%}, 2026={apr=30%, aug=30%, dec=30%, feb=30%, jan=30%, jul=30%, jun=30%, mar=30%, may=30%, nov=30%, oct=30%, sep=30%}, 2027={apr=30%, aug=30%, dec=30%, feb=30%, jan=30%, jul=30%, jun=30%, mar=30%, may=30%, nov=30%, oct=30%, sep=30%}}, RCA={2025={apr=35%, aug=35%, dec=35%, feb=35%, jan=35%, jul=35%, jun=35%, mar=35%, may=35%, nov=35%, oct=35%, sep=35%}, 2026={apr=35%, aug=35%, dec=35%, feb=35%, jan=35%, jul=35%, jun=35%, mar=35%, may=35%, nov=35%, oct=35%, sep=35%}, 2027={apr=35%, aug=35%, dec=35%, feb=35%, jan=35%, jul=35%, jun=35%, mar=35%, may=35%, nov=35%, oct=35%, sep=35%}}, RMA={2025={apr=20%, aug=20%, dec=20%, feb=20%, jan=20%, jul=20%, jun=20%, mar=20%, may=20%, nov=20%, oct=20%, sep=20%}, 2026={apr=20%, aug=20%, dec=20%, feb=20%, jan=20%, jul=20%, jun=20%, mar=20%, may=20%, nov=20%, oct=20%, sep=20%}, 2027={apr=20%, aug=20%, dec=20%, feb=20%, jan=20%, jul=20%, jun=20%, mar=20%, may=20%, nov=20%, oct=20%, sep=20%}}, RMS={2025={apr=80%, aug=80%, dec=80%, feb=80%, jan=80%, jul=80%, jun=80%, mar=80%, may=80%, nov=80%, oct=80%, sep=80%}, 2026={apr=80%, aug=80%, dec=80%, feb=80%, jan=80%, jul=80%, jun=80%, mar=80%, may=80%, nov=80%, oct=80%, sep=80%}, 2027={apr=80%, aug=80%, dec=80%, feb=80%, jan=80%, jul=80%, jun=80%, mar=80%, may=80%, nov=80%, oct=80%, sep=80%}}]
+Extracted year numbers for filtering: [2025, 2026, 2027] : [AFR]
+upperPopulations[AFR]
+Checking for population key: MG against filter: false
+upperPopulations[AFR]
+Checking for population key: RCA against filter: false
+upperPopulations[AFR]
+Checking for population key: RMA against filter: false
+upperPopulations[AFR]
+Checking for population key: RMS against filter: false
+Fetching values for category ID: 1140
+Applying nested filter with fiscal years: [fy2025, fy2026, fy2027]
+Applying nested filter with sourceValues: [MG={2025={apr=0%, aug=0%, dec=0%, feb=0%, jan=0%, jul=0%, jun=0%, mar=0%, may=0%, nov=0%, oct=0%, sep=0%}, 2026={apr=0%, aug=0%, dec=0%, feb=0%, jan=0%, jul=0%, jun=0%, mar=0%, may=0%, nov=0%, oct=0%, sep=0%}, 2027={apr=0%, aug=0%, dec=0%, feb=0%, jan=0%, jul=0%, jun=0%, mar=0%, may=0%, nov=0%, oct=0%, sep=0%}}, RCA={2025={apr=0%, aug=0%, dec=0%, feb=0%, jan=0%, jul=0%, jun=0%, mar=0%, may=0%, nov=0%, oct=0%, sep=0%}, 2026={apr=0%, aug=0%, dec=0%, feb=0%, jan=0%, jul=0%, jun=0%, mar=0%, may=0%, nov=0%, oct=0%, sep=0%}, 2027={apr=0%, aug=0%, dec=0%, feb=0%, jan=0%, jul=0%, jun=0%, mar=0%, may=0%, nov=0%, oct=0%, sep=0%}}, RMA={2025={apr=0%, aug=0%, dec=0%, feb=0%, jan=0%, jul=0%, jun=0%, mar=0%, may=0%, nov=0%, oct=0%, sep=0%}, 2026={apr=0%, aug=0%, dec=0%, feb=0%, jan=0%, jul=0%, jun=0%, mar=0%, may=0%, nov=0%, oct=0%, sep=0%}, 2027={apr=0%, aug=0%, dec=0%, feb=0%, jan=0%, jul=0%, jun=0%, mar=0%, may=0%, nov=0%, oct=0%, sep=0%}}, RMS={2025={apr=0%, aug=0%, dec=0%, feb=0%, jan=0%, jul=0%, jun=0%, mar=0%, may=0%, nov=0%, oct=0%, sep=0%}, 2026={apr=0%, aug=0%, dec=0%, feb=0%, jan=0%, jul=0%, jun=0%, mar=0%, may=0%, nov=0%, oct=0%, sep=0%}, 2027={apr=0%, aug=0%, dec=0%, feb=0%, jan=0%, jul=0%, jun=0%, mar=0%, may=0%, nov=0%, oct=0%, sep=0%}}]
+Extracted year numbers for filtering: [2025, 2026, 2027] : [AFR]
+upperPopulations[AFR]
+Checking for population key: MG against filter: false
+upperPopulations[AFR]
+Checking for population key: RCA against filter: false
+upperPopulations[AFR]
+Checking for population key: RMA against filter: false
+upperPopulations[AFR]
+Checking for population key: RMS against filter: false
+Fetching values for category ID: 1138
+Applying nested filter with fiscal years: [fy2025, fy2026, fy2027]
+Applying nested filter with sourceValues: [MG={2025={apr=35%, aug=35%, dec=35%, feb=35%, jan=35%, jul=35%, jun=35%, mar=35%, may=35%, nov=35%, oct=35%, sep=35%}, 2026={apr=35%, aug=35%, dec=35%, feb=35%, jan=35%, jul=35%, jun=35%, mar=35%, may=35%, nov=35%, oct=35%, sep=35%}, 2027={apr=35%, aug=35%, dec=35%, feb=35%, jan=35%, jul=35%, jun=35%, mar=35%, may=35%, nov=35%, oct=35%, sep=35%}}, RCA={2025={apr=20%, aug=20%, dec=20%, feb=20%, jan=20%, jul=20%, jun=20%, mar=20%, may=20%, nov=20%, oct=20%, sep=20%}, 2026={apr=20%, aug=20%, dec=20%, feb=20%, jan=20%, jul=20%, jun=20%, mar=20%, may=20%, nov=20%, oct=20%, sep=20%}, 2027={apr=20%, aug=20%, dec=20%, feb=20%, jan=20%, jul=20%, jun=20%, mar=20%, may=20%, nov=20%, oct=20%, sep=20%}}, RMA={2025={apr=10%, aug=10%, dec=10%, feb=10%, jan=10%, jul=10%, jun=10%, mar=10%, may=10%, nov=10%, oct=10%, sep=10%}, 2026={apr=10%, aug=10%, dec=10%, feb=10%, jan=10%, jul=10%, jun=10%, mar=10%, may=10%, nov=10%, oct=10%, sep=10%}, 2027={apr=10%, aug=10%, dec=10%, feb=10%, jan=10%, jul=10%, jun=10%, mar=10%, may=10%, nov=10%, oct=10%, sep=10%}}, RMS={2025={apr=65%, aug=65%, dec=65%, feb=65%, jan=65%, jul=65%, jun=65%, mar=65%, may=65%, nov=65%, oct=65%, sep=65%}, 2026={apr=65%, aug=65%, dec=65%, feb=65%, jan=65%, jul=65%, jun=65%, mar=65%, may=65%, nov=65%, oct=65%, sep=65%}, 2027={apr=65%, aug=65%, dec=65%, feb=65%, jan=65%, jul=65%, jun=65%, mar=65%, may=65%, nov=65%, oct=65%, sep=65%}}]
+Extracted year numbers for filtering: [2025, 2026, 2027] : [AFR]
+upperPopulations[AFR]
+Checking for population key: MG against filter: false
+upperPopulations[AFR]
+Checking for population key: RCA against filter: false
+upperPopulations[AFR]
+Checking for population key: RMA against filter: false
+upperPopulations[AFR]
+Checking for population key: RMS against filter: false
+Fetching values for category ID: 1139
+Applying nested filter with fiscal years: [fy2025, fy2026, fy2027]
+Applying nested filter with sourceValues: [MG={2025={apr=10%, aug=10%, dec=10%, feb=10%, jan=10%, jul=10%, jun=10%, mar=10%, may=10%, nov=10%, oct=10%, sep=10%}, 2026={apr=10%, aug=10%, dec=10%, feb=10%, jan=10%, jul=10%, jun=10%, mar=10%, may=10%, nov=10%, oct=10%, sep=10%}, 2027={apr=10%, aug=10%, dec=10%, feb=10%, jan=10%, jul=10%, jun=10%, mar=10%, may=10%, nov=10%, oct=10%, sep=10%}}, RCA={2025={apr=25%, aug=25%, dec=25%, feb=25%, jan=25%, jul=25%, jun=25%, mar=25%, may=25%, nov=25%, oct=25%, sep=25%}, 2026={apr=25%, aug=25%, dec=25%, feb=25%, jan=25%, jul=25%, jun=25%, mar=25%, may=25%, nov=25%, oct=25%, sep=25%}, 2027={apr=25%, aug=25%, dec=25%, feb=25%, jan=25%, jul=25%, jun=25%, mar=25%, may=25%, nov=25%, oct=25%, sep=25%}}, RMA={2025={apr=7%, aug=7%, dec=7%, feb=7%, jan=7%, jul=7%, jun=7%, mar=7%, may=7%, nov=7%, oct=7%, sep=7%}, 2026={apr=7%, aug=7%, dec=7%, feb=7%, jan=7%, jul=7%, jun=7%, mar=7%, may=7%, nov=7%, oct=7%, sep=7%}, 2027={apr=7%, aug=7%, dec=7%, feb=7%, jan=7%, jul=7%, jun=7%, mar=7%, may=7%, nov=7%, oct=7%, sep=7%}}, RMS={2025={apr=65%, aug=65%, dec=65%, feb=65%, jan=65%, jul=65%, jun=65%, mar=65%, may=65%, nov=65%, oct=65%, sep=65%}, 2026={apr=65%, aug=65%, dec=65%, feb=65%, jan=65%, jul=65%, jun=65%, mar=65%, may=65%, nov=65%, oct=65%, sep=65%}, 2027={apr=65%, aug=65%, dec=65%, feb=65%, jan=65%, jul=65%, jun=65%, mar=65%, may=65%, nov=65%, oct=65%, sep=65%}}]
+Extracted year numbers for filtering: [2025, 2026, 2027] : [AFR]
+upperPopulations[AFR]
+Checking for population key: MG against filter: false
+upperPopulations[AFR]
+Checking for population key: RCA against filter: false
+upperPopulations[AFR]
+Checking for population key: RMA against filter: false
+upperPopulations[AFR]
+Checking for population key: RMS against filter: false
+Fetching values for category ID: 1136
+Applying nested filter with fiscal years: [fy2025, fy2026, fy2027]
+Applying nested filter with sourceValues: [MG={2025={apr=5%, aug=5%, dec=5%, feb=5%, jan=5%, jul=5%, jun=5%, mar=5%, may=5%, nov=5%, oct=5%, sep=5%}, 2026={apr=5%, aug=5%, dec=5%, feb=5%, jan=5%, jul=5%, jun=5%, mar=5%, may=5%, nov=5%, oct=5%, sep=5%}, 2027={apr=5%, aug=5%, dec=5%, feb=5%, jan=5%, jul=5%, jun=5%, mar=5%, may=5%, nov=5%, oct=5%, sep=5%}}, RCA={2025={apr=57%, aug=57%, dec=57%, feb=57%, jan=57%, jul=57%, jun=57%, mar=57%, may=57%, nov=57%, oct=57%, sep=57%}, 2026={apr=57%, aug=57%, dec=57%, feb=57%, jan=57%, jul=57%, jun=57%, mar=57%, may=57%, nov=57%, oct=57%, sep=57%}, 2027={apr=57%, aug=57%, dec=57%, feb=57%, jan=57%, jul=57%, jun=57%, mar=57%, may=57%, nov=57%, oct=57%, sep=57%}}, RMA={2025={apr=35%, aug=35%, dec=35%, feb=35%, jan=35%, jul=35%, jun=35%, mar=35%, may=35%, nov=35%, oct=35%, sep=35%}, 2026={apr=50%, aug=50%, dec=50%, feb=50%, jan=50%, jul=50%, jun=50%, mar=50%, may=50%, nov=50%, oct=50%, sep=50%}, 2027={apr=50%, aug=50%, dec=50%, feb=50%, jan=50%, jul=50%, jun=50%, mar=50%, may=50%, nov=50%, oct=50%, sep=50%}}, RMS={2025={apr=35%, aug=35%, dec=35%, feb=35%, jan=35%, jul=35%, jun=35%, mar=35%, may=35%, nov=35%, oct=35%, sep=35%}, 2026={apr=45%, aug=45%, dec=45%, feb=45%, jan=45%, jul=45%, jun=45%, mar=45%, may=45%, nov=45%, oct=45%, sep=45%}, 2027={apr=45%, aug=45%, dec=45%, feb=45%, jan=45%, jul=45%, jun=45%, mar=45%, may=45%, nov=45%, oct=45%, sep=45%}}]
+Extracted year numbers for filtering: [2025, 2026, 2027] : [AFR]
+upperPopulations[AFR]
+Checking for population key: MG against filter: false
+upperPopulations[AFR]
+Checking for population key: RCA against filter: false
+upperPopulations[AFR]
+Checking for population key: RMA against filter: false
+upperPopulations[AFR]
+Checking for population key: RMS against filter: false
+Fetching values for category ID: 1137
+Applying nested filter with fiscal years: [fy2025, fy2026, fy2027]
+Applying nested filter with sourceValues: [MG={2025={apr=35%, aug=35%, dec=35%, feb=35%, jan=35%, jul=35%, jun=35%, mar=35%, may=35%, nov=35%, oct=35%, sep=35%}, 2026={apr=35%, aug=35%, dec=35%, feb=35%, jan=35%, jul=35%, jun=35%, mar=35%, may=35%, nov=35%, oct=35%, sep=35%}, 2027={apr=35%, aug=35%, dec=35%, feb=35%, jan=35%, jul=35%, jun=35%, mar=35%, may=35%, nov=35%, oct=35%, sep=35%}}, RCA={2025={apr=35%, aug=35%, dec=35%, feb=35%, jan=35%, jul=35%, jun=35%, mar=35%, may=35%, nov=35%, oct=35%, sep=35%}, 2026={apr=35%, aug=35%, dec=35%, feb=35%, jan=35%, jul=35%, jun=35%, mar=35%, may=35%, nov=35%, oct=35%, sep=35%}, 2027={apr=35%, aug=35%, dec=35%, feb=35%, jan=35%, jul=35%, jun=35%, mar=35%, may=35%, nov=35%, oct=35%, sep=35%}}, RMA={2025={apr=20%, aug=20%, dec=20%, feb=20%, jan=20%, jul=20%, jun=20%, mar=20%, may=20%, nov=20%, oct=20%, sep=20%}, 2026={apr=20%, aug=20%, dec=20%, feb=20%, jan=20%, jul=20%, jun=20%, mar=20%, may=20%, nov=20%, oct=20%, sep=20%}, 2027={apr=20%, aug=20%, dec=20%, feb=20%, jan=20%, jul=20%, jun=20%, mar=20%, may=20%, nov=20%, oct=20%, sep=20%}}, RMS={2025={apr=80%, aug=80%, dec=80%, feb=80%, jan=80%, jul=80%, jun=80%, mar=80%, may=80%, nov=80%, oct=80%, sep=80%}, 2026={apr=85%, aug=85%, dec=85%, feb=85%, jan=85%, jul=85%, jun=85%, mar=85%, may=85%, nov=85%, oct=85%, sep=85%}, 2027={apr=85%, aug=85%, dec=85%, feb=85%, jan=85%, jul=85%, jun=85%, mar=85%, may=85%, nov=85%, oct=85%, sep=85%}}]
+Extracted year numbers for filtering: [2025, 2026, 2027] : [AFR]
+upperPopulations[AFR]
+Checking for population key: MG against filter: false
+upperPopulations[AFR]
+Checking for population key: RCA against filter: false
+upperPopulations[AFR]
+Checking for population key: RMA against filter: false
+upperPopulations[AFR]
+Checking for population key: RMS against filter: false
+Fetching values for category ID: 1141
+Applying nested filter with fiscal years: [fy2025, fy2026, fy2027]
+Applying nested filter with sourceValues: [MG={2025={apr=0%, aug=0%, dec=0%, feb=0%, jan=0%, jul=0%, jun=0%, mar=0%, may=0%, nov=0%, oct=0%, sep=0%}, 2026={apr=0%, aug=0%, dec=0%, feb=0%, jan=0%, jul=0%, jun=0%, mar=0%, may=0%, nov=0%, oct=0%, sep=0%}, 2027={apr=0%, aug=0%, dec=0%, feb=0%, jan=0%, jul=0%, jun=0%, mar=0%, may=0%, nov=0%, oct=0%, sep=0%}}, RCA={2025={apr=0%, aug=0%, dec=0%, feb=0%, jan=0%, jul=0%, jun=0%, mar=0%, may=0%, nov=0%, oct=0%, sep=0%}, 2026={apr=0%, aug=0%, dec=0%, feb=0%, jan=0%, jul=0%, jun=0%, mar=0%, may=0%, nov=0%, oct=0%, sep=0%}, 2027={apr=0%, aug=0%, dec=0%, feb=0%, jan=0%, jul=0%, jun=0%, mar=0%, may=0%, nov=0%, oct=0%, sep=0%}}, RMA={2025={apr=0%, aug=0%, dec=0%, feb=0%, jan=0%, jul=0%, jun=0%, mar=0%, may=0%, nov=0%, oct=0%, sep=0%}, 2026={apr=0%, aug=0%, dec=0%, feb=0%, jan=0%, jul=0%, jun=0%, mar=0%, may=0%, nov=0%, oct=0%, sep=0%}, 2027={apr=0%, aug=0%, dec=0%, feb=0%, jan=0%, jul=0%, jun=0%, mar=0%, may=0%, nov=0%, oct=0%, sep=0%}}, RMS={2025={apr=0%, aug=0%, dec=0%, feb=0%, jan=0%, jul=0%, jun=0%, mar=0%, may=0%, nov=0%, oct=0%, sep=0%}, 2026={apr=0%, aug=0%, dec=0%, feb=0%, jan=0%, jul=0%, jun=0%, mar=0%, may=0%, nov=0%, oct=0%, sep=0%}, 2027={apr=0%, aug=0%, dec=0%, feb=0%, jan=0%, jul=0%, jun=0%, mar=0%, may=0%, nov=0%, oct=0%, sep=0%}}]
+Extracted year numbers for filtering: [2025, 2026, 2027] : [AFR]
+upperPopulations[AFR]
+Checking for population key: MG against filter: false
+upperPopulations[AFR]
+Checking for population key: RCA against filter: false
+upperPopulations[AFR]
+Checking for population key: RMA against filter: false
+upperPopulations[AFR]
+Checking for population key: RMS against filter: false
+Fetching values for category ID: 1152
+Applying nested filter with fiscal years: [fy2025, fy2026, fy2027]
+Applying nested filter with sourceValues: [MG={2025={apr=5%, aug=5%, dec=5%, feb=5%, jan=5%, jul=5%, jun=5%, mar=5%, may=5%, nov=5%, oct=5%, sep=5%}, 2026={apr=5%, aug=5%, dec=5%, feb=5%, jan=5%, jul=5%, jun=5%, mar=5%, may=5%, nov=5%, oct=5%, sep=5%}, 2027={apr=5%, aug=5%, dec=5%, feb=5%, jan=5%, jul=5%, jun=5%, mar=5%, may=5%, nov=5%, oct=5%, sep=5%}}, RCA={2025={apr=5%, aug=5%, dec=5%, feb=5%, jan=5%, jul=5%, jun=5%, mar=5%, may=5%, nov=5%, oct=5%, sep=5%}, 2026={apr=5%, aug=5%, dec=5%, feb=5%, jan=5%, jul=5%, jun=5%, mar=5%, may=5%, nov=5%, oct=5%, sep=5%}, 2027={apr=5%, aug=5%, dec=5%, feb=5%, jan=5%, jul=5%, jun=5%, mar=5%, may=5%, nov=5%, oct=5%, sep=5%}}, RMA={2025={apr=3%, aug=3%, dec=3%, feb=3%, jan=3%, jul=3%, jun=3%, mar=3%, may=3%, nov=3%, oct=3%, sep=3%}, 2026={apr=3%, aug=3%, dec=3%, feb=3%, jan=3%, jul=3%, jun=3%, mar=3%, may=3%, nov=3%, oct=3%, sep=3%}, 2027={apr=3%, aug=3%, dec=3%, feb=3%, jan=3%, jul=3%, jun=3%, mar=3%, may=3%, nov=3%, oct=3%, sep=3%}}, RMS={2025={apr=65%, aug=65%, dec=65%, feb=65%, jan=65%, jul=65%, jun=65%, mar=65%, may=65%, nov=65%, oct=65%, sep=65%}, 2026={apr=65%, aug=65%, dec=65%, feb=65%, jan=65%, jul=65%, jun=65%, mar=65%, may=65%, nov=65%, oct=65%, sep=65%}, 2027={apr=65%, aug=65%, dec=65%, feb=65%, jan=65%, jul=65%, jun=65%, mar=65%, may=65%, nov=65%, oct=65%, sep=65%}}]
+Extracted year numbers for filtering: [2025, 2026, 2027] : [AFR]
+upperPopulations[AFR]
+Checking for population key: MG against filter: false
+upperPopulations[AFR]
+Checking for population key: RCA against filter: false
+upperPopulations[AFR]
+Checking for population key: RMA against filter: false
+upperPopulations[AFR]
+Checking for population key: RMS against filter: false
+Fetching values for category ID: 1142
+Applying nested filter with fiscal years: [fy2025, fy2026, fy2027]
+Applying nested filter with sourceValues: [MG={2025={apr=10%, aug=10%, dec=10%, feb=10%, jan=10%, jul=10%, jun=10%, mar=10%, may=10%, nov=10%, oct=10%, sep=10%}, 2026={apr=10%, aug=10%, dec=10%, feb=10%, jan=10%, jul=10%, jun=10%, mar=10%, may=10%, nov=10%, oct=10%, sep=10%}, 2027={apr=10%, aug=10%, dec=10%, feb=10%, jan=10%, jul=10%, jun=10%, mar=10%, may=10%, nov=10%, oct=10%, sep=10%}}, RCA={2025={apr=20%, aug=20%, dec=20%, feb=20%, jan=20%, jul=20%, jun=20%, mar=20%, may=20%, nov=20%, oct=20%, sep=20%}, 2026={apr=20%, aug=20%, dec=20%, feb=20%, jan=20%, jul=20%, jun=20%, mar=20%, may=20%, nov=20%, oct=20%, sep=20%}, 2027={apr=20%, aug=20%, dec=20%, feb=20%, jan=20%, jul=20%, jun=20%, mar=20%, may=20%, nov=20%, oct=20%, sep=20%}}, RMA={2025={apr=15%, aug=15%, dec=15%, feb=15%, jan=15%, jul=15%, jun=15%, mar=15%, may=15%, nov=15%, oct=15%, sep=15%}, 2026={apr=15%, aug=15%, dec=15%, feb=15%, jan=15%, jul=15%, jun=15%, mar=15%, may=15%, nov=15%, oct=15%, sep=15%}, 2027={apr=15%, aug=15%, dec=15%, feb=15%, jan=15%, jul=15%, jun=15%, mar=15%, may=15%, nov=15%, oct=15%, sep=15%}}, RMS={2025={apr=65%, aug=65%, dec=65%, feb=65%, jan=65%, jul=65%, jun=65%, mar=65%, may=65%, nov=65%, oct=65%, sep=65%}, 2026={apr=65%, aug=65%, dec=65%, feb=65%, jan=65%, jul=65%, jun=65%, mar=65%, may=65%, nov=65%, oct=65%, sep=65%}, 2027={apr=65%, aug=65%, dec=65%, feb=65%, jan=65%, jul=65%, jun=65%, mar=65%, may=65%, nov=65%, oct=65%, sep=65%}}]
+Extracted year numbers for filtering: [2025, 2026, 2027] : [AFR]
+upperPopulations[AFR]
+Checking for population key: MG against filter: false
+upperPopulations[AFR]
+Checking for population key: RCA against filter: false
+upperPopulations[AFR]
+Checking for population key: RMA against filter: false
+upperPopulations[AFR]
+Checking for population key: RMS against filter: false
+Fetching values for category ID: 1143
+Applying nested filter with fiscal years: [fy2025, fy2026, fy2027]
+Applying nested filter with sourceValues: [MG={2025={apr=35%, aug=35%, dec=35%, feb=35%, jan=35%, jul=35%, jun=35%, mar=35%, may=35%, nov=35%, oct=35%, sep=35%}, 2026={apr=35%, aug=35%, dec=35%, feb=35%, jan=35%, jul=35%, jun=35%, mar=35%, may=35%, nov=35%, oct=35%, sep=35%}, 2027={apr=35%, aug=35%, dec=35%, feb=35%, jan=35%, jul=35%, jun=35%, mar=35%, may=35%, nov=35%, oct=35%, sep=35%}}, RCA={2025={apr=40%, aug=40%, dec=40%, feb=40%, jan=40%, jul=40%, jun=40%, mar=40%, may=40%, nov=40%, oct=40%, sep=40%}, 2026={apr=40%, aug=40%, dec=40%, feb=40%, jan=40%, jul=40%, jun=40%, mar=40%, may=40%, nov=40%, oct=40%, sep=40%}, 2027={apr=40%, aug=40%, dec=40%, feb=40%, jan=40%, jul=40%, jun=40%, mar=40%, may=40%, nov=40%, oct=40%, sep=40%}}, RMA={2025={apr=25%, aug=25%, dec=25%, feb=25%, jan=25%, jul=25%, jun=25%, mar=25%, may=25%, nov=25%, oct=25%, sep=25%}, 2026={apr=25%, aug=25%, dec=25%, feb=25%, jan=25%, jul=25%, jun=25%, mar=25%, may=25%, nov=25%, oct=25%, sep=25%}, 2027={apr=25%, aug=25%, dec=25%, feb=25%, jan=25%, jul=25%, jun=25%, mar=25%, may=25%, nov=25%, oct=25%, sep=25%}}, RMS={2025={apr=65%, aug=65%, dec=65%, feb=65%, jan=65%, jul=65%, jun=65%, mar=65%, may=65%, nov=65%, oct=65%, sep=65%}, 2026={apr=65%, aug=65%, dec=65%, feb=65%, jan=65%, jul=65%, jun=65%, mar=65%, may=65%, nov=65%, oct=65%, sep=65%}, 2027={apr=65%, aug=65%, dec=65%, feb=65%, jan=65%, jul=65%, jun=65%, mar=65%, may=65%, nov=65%, oct=65%, sep=65%}}]
+Extracted year numbers for filtering: [2025, 2026, 2027] : [AFR]
+upperPopulations[AFR]
+Checking for population key: MG against filter: false
+upperPopulations[AFR]
+Checking for population key: RCA against filter: false
+upperPopulations[AFR]
+Checking for population key: RMA against filter: false
+upperPopulations[AFR]
+Checking for population key: RMS against filter: false
+Added 10 filtered categories of type participation_rates
+Fetching values for category ID: 1135
+Applying simple filter with fiscal years: [fy2025, fy2026, fy2027]
+Added 1 filtered categories of type inflation
+Returning 7 categories [urm, unit_costs, arrival_distributions, arrival_assumptions, other_costs, participation_rates, inflation]
+----------------> LOOK AT CATEGOREIS-----------{urm=[{values={fy2027=2000, fy2025=2000, fy2026=2000}, description=URM Recipients, id=urm_monthly, label=Monthly URM Recipients, type=URM}], unit_costs=[{values={fy2027=742.62, fy2025=721, fy2026=742.62}, description=RMS per person unit costs, id=uc_rms, label=RMS, type=UNIT_COST}, {values={fy2027=273.18, fy2025=265.23, fy2026=273.18}, description=RMA per person unit costs, id=uc_rma, label=RMA, type=UNIT_COST}, {values={fy2027=4084.47, fy2025=3965.5, fy2026=4084.47}, description=MG per person unit costs, id=uc_mg, label=MG, type=UNIT_COST}, {values={fy2027=4349.69, fy2025=4223, fy2026=4349.69}, description=URM per person unit costs, id=uc_urm, label=URM, type=UNIT_COST}, {values={fy2027=284.11, fy2025=275.83, fy2026=284.11}, description=RCA per person unit costs, id=uc_rca, label=RCA, type=UNIT_COST}], arrival_distributions=[{values={}, description=UHP custom monthly arrival distribution, id=arr_dist_vot, label=VOT, type=ARRIVAL_DISTRIBUTION}, {values={AFR={2027={apr=833, aug=834, dec=833, feb=833, jan=833, jul=834, jun=834, mar=833, may=833, nov=833, oct=833, sep=834}, 2026={apr=0, aug=200, dec=0, feb=0, jan=0, jul=200, jun=200, mar=0, may=200, nov=0, oct=0, sep=200}, 2025={apr=0, aug=0, dec=0, feb=0, jan=0, jul=0, jun=0, mar=0, may=0, nov=0, oct=0, sep=0}}}, description=AFR custom monthly arrival distribution, id=arr_dist_afr, label=AFR, type=ARRIVAL_DISTRIBUTION}, {values={}, description=UHP custom monthly arrival distribution, id=arr_dist_uhp, label=UHP, type=ARRIVAL_DISTRIBUTION}, {values={}, description=OP1 custom monthly arrival distribution, id=arr_dist_op1, label=OP1, type=ARRIVAL_DISTRIBUTION}, {values={}, description=CHE custom monthly arrival distribution, id=arr_dist_che, label=CHE, type=ARRIVAL_DISTRIBUTION}, {values={}, description=SIV custom monthly arrival distribution, id=arr_dist_siv, label=SIV, type=ARRIVAL_DISTRIBUTION}, {values={}, description=OP2 custom monthly arrival distribution, id=arr_dist_op2, label=OP2, type=ARRIVAL_DISTRIBUTION}, {values={}, description=REF custom monthly arrival distribution, id=arr_dist_ref, label=REF, type=ARRIVAL_DISTRIBUTION}, {values={}, description=ASY custom monthly arrival distribution, id=arr_dist_asy, label=ASY, type=ARRIVAL_DISTRIBUTION}, {values={}, description=AHP custom monthly arrival distribution, id=arr_dist_ahp, label=AHP, type=ARRIVAL_DISTRIBUTION}], arrival_assumptions=[{values={fy2027=25000, fy2025=49415, fy2026=25000}, description=Asylees, id=aa_asy, label=ASY, type=ARRIVAL_ASSUMPTION}, {values={fy2027=0, fy2025=0, fy2026=0}, description=Afghan Humanitarian Parolees, id=aa_ahp, label=AHP, type=ARRIVAL_ASSUMPTION}, {values={fy2027=800, fy2025=2500, fy2026=800}, description=Victims of Trafficking, id=aa_vot, label=VOT, type=ARRIVAL_ASSUMPTION}, {values={fy2027=0, fy2025=0, fy2026=0}, description=Ukranian Humanitarian Parolees, id=aa_uhp, label=UHP, type=ARRIVAL_ASSUMPTION}, {values={fy2027=10000, fy2025=0, fy2026=1000}, description=Afrikaners, id=aa_afr, label=AFR, type=ARRIVAL_ASSUMPTION}, {values={fy2027=15000, fy2025=41602, fy2026=15000}, description=Cuban and Haitian Entrants, id=aa_che, label=CHE, type=ARRIVAL_ASSUMPTION}, {values={fy2027=0, fy2025=0, fy2026=0}, description=Other Population 1, id=aa_op1, label=OP1, type=ARRIVAL_ASSUMPTION}, {values={fy2027=7000, fy2025=13930, fy2026=7000}, description=Afghan and Iraqi Special Immigrant Visas, id=aa_siv, label=SIV, type=ARRIVAL_ASSUMPTION}, {values={fy2027=0, fy2025=0, fy2026=0}, description=Other Population 2, id=aa_op2, label=OP2, type=ARRIVAL_ASSUMPTION}, {values={fy2027=40000, fy2025=37624, fy2026=40000}, description=Refugees, id=aa_ref, label=REF, type=ARRIVAL_ASSUMPTION}], other_costs=[{values={fy2027=67000000, fy2025=67000000, fy2026=67000000}, description=Administrative expenses, id=oc_admin_costs, label=Administrative Costs, type=OTHER_COST}, {values={fy2027=8100000, fy2025=8100000, fy2026=8100000}, description=Data collection and reporting expenses, id=oc_reporting_costs, label=Reporting Costs, type=OTHER_COST}, {values={fy2027=2500000, fy2025=2500000, fy2026=2500000}, description=Training and development expenses, id=oc_training_costs, label=Training Costs, type=OTHER_COST}, {values={fy2027=30000000, fy2025=30000000, fy2026=30000000}, description=Personnel and staffing expenses, id=oc_staff_costs, label=Staffing Costs, type=OTHER_COST}, {values={fy2027=9172500, fy2025=9172500, fy2026=9172500}, description=Program monitoring and evaluation, id=oc_monitoring_costs, label=Monitoring Costs, type=OTHER_COST}, {values={fy2027=36910000, fy2025=36910000, fy2026=36910000}, description=Additional program expenses, id=oc_addprogram_costs, label=Additional Program Costs, type=OTHER_COST}, {values={fy2027=1500000, fy2025=1500000, fy2026=1500000}, description=IT systems and technology, id=oc_technology_costs, label=Technology Costs, type=OTHER_COST}, {values={fy2027=0, fy2025=0, fy2026=0}, description=Other expenses, id=oc_other_costs, label=Other Costs, type=OTHER_COST}], participation_rates=[{values={}, description=AFR custom participation rates, id=pr_afr, label=AFR, type=PARTICIPATION_RATE}, {values={}, description=OP1 custom participation rates, id=pr_op1, label=OP1, type=PARTICIPATION_RATE}, {values={}, description=SIV custom participation rates, id=pr_siv, label=SIV, type=PARTICIPATION_RATE}, {values={}, description=UHP custom participation rates, id=pr_uhp, label=UHP, type=PARTICIPATION_RATE}, {values={}, description=CHE custom participation rates, id=pr_che, label=CHE, type=PARTICIPATION_RATE}, {values={}, description=REF custom participation rates, id=pr_ref, label=REF, type=PARTICIPATION_RATE}, {values={}, description=OP2 custom participation rates, id=pr_op2, label=OP2, type=PARTICIPATION_RATE}, {values={}, description=ASY custom participation rates, id=pr_asy, label=ASY, type=PARTICIPATION_RATE}, {values={}, description=VOT custom participation rates, id=pr_vot, label=VOT, type=PARTICIPATION_RATE}, {values={}, description=AHP custom participation rates, id=pr_ahp, label=AHP, type=PARTICIPATION_RATE}], inflation=[{values={fy2027=3%, fy2025=3%, fy2026=3%}, description=RCA PPP inflation rate, id=inf_rcappp, label=PPP RCA Inflation, type=INFLATION}]}
+Exiting runAndFinalizeScenario by 00utzdv5eoSgYEqmJ697
+2025-10-06T12:50:12.100-04:00 DEBUG 102834 --- [io-34205-exec-2] o.s.security.web.FilterChainProxy        : Securing GET /check
+2025-10-06T12:50:12.100-04:00 DEBUG 102834 --- [io-34205-exec-2] w.c.HttpSessionSecurityContextRepository : Retrieved SecurityContextImpl [Authentication=OAuth2AuthenticationToken [Principal=Name: [00utzdv5eoSgYEqmJ697], Granted Authorities: [[OAUTH2_USER, SCOPE_openid, SCOPE_profile]], User Attributes: [{sub=00utzdv5eoSgYEqmJ697, name=Liam Walker, locale=en_US, preferred_username=levi.waker@gdit.com, given_name=Liam, family_name=Walker, zoneinfo=America/Los_Angeles, updated_at=1754585335}], Credentials=[PROTECTED], Authenticated=true, Details=WebAuthenticationDetails [RemoteIpAddress=0:0:0:0:0:0:0:1, SessionId=0F98B3ED0D7B739785462F190E4C5159], Granted Authorities=[OAUTH2_USER, SCOPE_openid, SCOPE_profile]]]
+2025-10-06T12:50:12.100-04:00 DEBUG 102834 --- [io-34205-exec-2] o.s.security.web.FilterChainProxy        : Secured GET /check
+2025-10-06T12:50:12.120-04:00 DEBUG 102834 --- [io-34205-exec-6] o.s.security.web.FilterChainProxy        : Securing GET /scenarios
+2025-10-06T12:50:12.120-04:00 DEBUG 102834 --- [io-34205-exec-6] w.c.HttpSessionSecurityContextRepository : Retrieved SecurityContextImpl [Authentication=OAuth2AuthenticationToken [Principal=Name: [00utzdv5eoSgYEqmJ697], Granted Authorities: [[OAUTH2_USER, SCOPE_openid, SCOPE_profile]], User Attributes: [{sub=00utzdv5eoSgYEqmJ697, name=Liam Walker, locale=en_US, preferred_username=levi.waker@gdit.com, given_name=Liam, family_name=Walker, zoneinfo=America/Los_Angeles, updated_at=1754585335}], Credentials=[PROTECTED], Authenticated=true, Details=WebAuthenticationDetails [RemoteIpAddress=0:0:0:0:0:0:0:1, SessionId=0F98B3ED0D7B739785462F190E4C5159], Granted Authorities=[OAUTH2_USER, SCOPE_openid, SCOPE_profile]]]
+2025-10-06T12:50:12.120-04:00 DEBUG 102834 --- [io-34205-exec-6] o.s.security.web.FilterChainProxy        : Secured GET /scenarios
+Entering getAllScenarios by 00utzdv5eoSgYEqmJ697
+Returning 20 scenarios 
+Exiting getAllScenarios by 00utzdv5eoSgYEqmJ697
+2025-10-06T12:56:58.036-04:00 DEBUG 102834 --- [io-34205-exec-5] o.s.security.web.FilterChainProxy        : Securing GET /scenarios/21
+2025-10-06T12:56:58.036-04:00 DEBUG 102834 --- [io-34205-exec-5] w.c.HttpSessionSecurityContextRepository : Retrieved SecurityContextImpl [Authentication=OAuth2AuthenticationToken [Principal=Name: [00utzdv5eoSgYEqmJ697], Granted Authorities: [[OAUTH2_USER, SCOPE_openid, SCOPE_profile]], User Attributes: [{sub=00utzdv5eoSgYEqmJ697, name=Liam Walker, locale=en_US, preferred_username=levi.waker@gdit.com, given_name=Liam, family_name=Walker, zoneinfo=America/Los_Angeles, updated_at=1754585335}], Credentials=[PROTECTED], Authenticated=true, Details=WebAuthenticationDetails [RemoteIpAddress=0:0:0:0:0:0:0:1, SessionId=0F98B3ED0D7B739785462F190E4C5159], Granted Authorities=[OAUTH2_USER, SCOPE_openid, SCOPE_profile]]]
+2025-10-06T12:56:58.036-04:00 DEBUG 102834 --- [io-34205-exec-5] o.s.security.web.FilterChainProxy        : Secured GET /scenarios/21
+Entering getScenarioById by 00utzdv5eoSgYEqmJ697
+<=<==========---> 80% EXECUTING [15m 59s]
+> :bootRun
+^A^C[levi.walker@rad-dv-adm-lw-l rads-estimator-api]$ 

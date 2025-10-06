@@ -1,0 +1,596 @@
+{
+  "id": 21,
+  "name": "Refugee Support finalize test 2",
+  "description": "Please add a description",
+  "scenario_type_id": null,
+  "user_id": "admin",
+  "created_by": "00utzdv5eoSgYEqmJ697",
+  "updated_by": "00utzdv5eoSgYEqmJ697",
+  "parameters": {
+    "fiscalYears": [
+      "fy2025",
+      "fy2026",
+      "fy2027"
+    ],
+    "populations": [
+      "AFR"
+    ],
+    "population_categories": [
+      {
+        "ASY": "Base"
+      },
+      {
+        "AHP": "OAW"
+      },
+      {
+        "AFR": "AFR"
+      }
+    ]
+  },
+  "finalized_data": {
+    "name": "Refugee Support finalize test 2",
+    "is_draft": true,
+    "categories": {
+      "urm": [
+        {
+          "id": "urm_monthly",
+          "type": "URM",
+          "label": "Monthly URM Recipients",
+          "values": {
+            "fy2025": 2000,
+            "fy2026": 2000,
+            "fy2027": 2000
+          },
+          "description": "URM Recipients"
+        }
+      ],
+      "inflation": [
+        {
+          "id": "inf_rcappp",
+          "type": "INFLATION",
+          "label": "PPP RCA Inflation",
+          "values": {
+            "fy2025": "3%",
+            "fy2026": "3%",
+            "fy2027": "3%"
+          },
+          "description": "RCA PPP inflation rate"
+        }
+      ],
+      "unit_costs": [
+        {
+          "id": "uc_rms",
+          "type": "UNIT_COST",
+          "label": "RMS",
+          "values": {
+            "fy2025": 721,
+            "fy2026": 742.62,
+            "fy2027": 742.62
+          },
+          "description": "RMS per person unit costs"
+        },
+        {
+          "id": "uc_rma",
+          "type": "UNIT_COST",
+          "label": "RMA",
+          "values": {
+            "fy2025": 265.23,
+            "fy2026": 273.18,
+            "fy2027": 273.18
+          },
+          "description": "RMA per person unit costs"
+        },
+        {
+          "id": "uc_mg",
+          "type": "UNIT_COST",
+          "label": "MG",
+          "values": {
+            "fy2025": 3965.5,
+            "fy2026": 4084.47,
+            "fy2027": 4084.47
+          },
+          "description": "MG per person unit costs"
+        },
+        {
+          "id": "uc_urm",
+          "type": "UNIT_COST",
+          "label": "URM",
+          "values": {
+            "fy2025": 4223,
+            "fy2026": 4349.69,
+            "fy2027": 4349.69
+          },
+          "description": "URM per person unit costs"
+        },
+        {
+          "id": "uc_rca",
+          "type": "UNIT_COST",
+          "label": "RCA",
+          "values": {
+            "fy2025": 275.83,
+            "fy2026": 284.11,
+            "fy2027": 284.11
+          },
+          "description": "RCA per person unit costs"
+        }
+      ],
+      "other_costs": [
+        {
+          "id": "oc_admin_costs",
+          "type": "OTHER_COST",
+          "label": "Administrative Costs",
+          "values": {
+            "fy2025": 67000000,
+            "fy2026": 67000000,
+            "fy2027": 67000000
+          },
+          "description": "Administrative expenses"
+        },
+        {
+          "id": "oc_reporting_costs",
+          "type": "OTHER_COST",
+          "label": "Reporting Costs",
+          "values": {
+            "fy2025": 8100000,
+            "fy2026": 8100000,
+            "fy2027": 8100000
+          },
+          "description": "Data collection and reporting expenses"
+        },
+        {
+          "id": "oc_training_costs",
+          "type": "OTHER_COST",
+          "label": "Training Costs",
+          "values": {
+            "fy2025": 2500000,
+            "fy2026": 2500000,
+            "fy2027": 2500000
+          },
+          "description": "Training and development expenses"
+        },
+        {
+          "id": "oc_staff_costs",
+          "type": "OTHER_COST",
+          "label": "Staffing Costs",
+          "values": {
+            "fy2025": 30000000,
+            "fy2026": 30000000,
+            "fy2027": 30000000
+          },
+          "description": "Personnel and staffing expenses"
+        },
+        {
+          "id": "oc_monitoring_costs",
+          "type": "OTHER_COST",
+          "label": "Monitoring Costs",
+          "values": {
+            "fy2025": 9172500,
+            "fy2026": 9172500,
+            "fy2027": 9172500
+          },
+          "description": "Program monitoring and evaluation"
+        },
+        {
+          "id": "oc_addprogram_costs",
+          "type": "OTHER_COST",
+          "label": "Additional Program Costs",
+          "values": {
+            "fy2025": 36910000,
+            "fy2026": 36910000,
+            "fy2027": 36910000
+          },
+          "description": "Additional program expenses"
+        },
+        {
+          "id": "oc_technology_costs",
+          "type": "OTHER_COST",
+          "label": "Technology Costs",
+          "values": {
+            "fy2025": 1500000,
+            "fy2026": 1500000,
+            "fy2027": 1500000
+          },
+          "description": "IT systems and technology"
+        },
+        {
+          "id": "oc_other_costs",
+          "type": "OTHER_COST",
+          "label": "Other Costs",
+          "values": {
+            "fy2025": 0,
+            "fy2026": 0,
+            "fy2027": 0
+          },
+          "description": "Other expenses"
+        }
+      ],
+      "arrival_assumptions": [
+        {
+          "id": "aa_asy",
+          "type": "ARRIVAL_ASSUMPTION",
+          "label": "ASY",
+          "values": {
+            "fy2025": 49415,
+            "fy2026": 25000,
+            "fy2027": 25000
+          },
+          "description": "Asylees"
+        },
+        {
+          "id": "aa_ahp",
+          "type": "ARRIVAL_ASSUMPTION",
+          "label": "AHP",
+          "values": {
+            "fy2025": 0,
+            "fy2026": 0,
+            "fy2027": 0
+          },
+          "description": "Afghan Humanitarian Parolees"
+        },
+        {
+          "id": "aa_vot",
+          "type": "ARRIVAL_ASSUMPTION",
+          "label": "VOT",
+          "values": {
+            "fy2025": 2500,
+            "fy2026": 800,
+            "fy2027": 800
+          },
+          "description": "Victims of Trafficking"
+        },
+        {
+          "id": "aa_uhp",
+          "type": "ARRIVAL_ASSUMPTION",
+          "label": "UHP",
+          "values": {
+            "fy2025": 0,
+            "fy2026": 0,
+            "fy2027": 0
+          },
+          "description": "Ukranian Humanitarian Parolees"
+        },
+        {
+          "id": "aa_afr",
+          "type": "ARRIVAL_ASSUMPTION",
+          "label": "AFR",
+          "values": {
+            "fy2025": 0,
+            "fy2026": 1000,
+            "fy2027": 10000
+          },
+          "description": "Afrikaners"
+        },
+        {
+          "id": "aa_che",
+          "type": "ARRIVAL_ASSUMPTION",
+          "label": "CHE",
+          "values": {
+            "fy2025": 41602,
+            "fy2026": 15000,
+            "fy2027": 15000
+          },
+          "description": "Cuban and Haitian Entrants"
+        },
+        {
+          "id": "aa_op1",
+          "type": "ARRIVAL_ASSUMPTION",
+          "label": "OP1",
+          "values": {
+            "fy2025": 0,
+            "fy2026": 0,
+            "fy2027": 0
+          },
+          "description": "Other Population 1"
+        },
+        {
+          "id": "aa_siv",
+          "type": "ARRIVAL_ASSUMPTION",
+          "label": "SIV",
+          "values": {
+            "fy2025": 13930,
+            "fy2026": 7000,
+            "fy2027": 7000
+          },
+          "description": "Afghan and Iraqi Special Immigrant Visas"
+        },
+        {
+          "id": "aa_op2",
+          "type": "ARRIVAL_ASSUMPTION",
+          "label": "OP2",
+          "values": {
+            "fy2025": 0,
+            "fy2026": 0,
+            "fy2027": 0
+          },
+          "description": "Other Population 2"
+        },
+        {
+          "id": "aa_ref",
+          "type": "ARRIVAL_ASSUMPTION",
+          "label": "REF",
+          "values": {
+            "fy2025": 37624,
+            "fy2026": 40000,
+            "fy2027": 40000
+          },
+          "description": "Refugees"
+        }
+      ],
+      "participation_rates": [
+        {
+          "id": "pr_afr",
+          "type": "PARTICIPATION_RATE",
+          "label": "AFR",
+          "values": {
+
+          },
+          "description": "AFR custom participation rates"
+        },
+        {
+          "id": "pr_op1",
+          "type": "PARTICIPATION_RATE",
+          "label": "OP1",
+          "values": {
+
+          },
+          "description": "OP1 custom participation rates"
+        },
+        {
+          "id": "pr_siv",
+          "type": "PARTICIPATION_RATE",
+          "label": "SIV",
+          "values": {
+
+          },
+          "description": "SIV custom participation rates"
+        },
+        {
+          "id": "pr_uhp",
+          "type": "PARTICIPATION_RATE",
+          "label": "UHP",
+          "values": {
+
+          },
+          "description": "UHP custom participation rates"
+        },
+        {
+          "id": "pr_che",
+          "type": "PARTICIPATION_RATE",
+          "label": "CHE",
+          "values": {
+
+          },
+          "description": "CHE custom participation rates"
+        },
+        {
+          "id": "pr_ref",
+          "type": "PARTICIPATION_RATE",
+          "label": "REF",
+          "values": {
+
+          },
+          "description": "REF custom participation rates"
+        },
+        {
+          "id": "pr_op2",
+          "type": "PARTICIPATION_RATE",
+          "label": "OP2",
+          "values": {
+
+          },
+          "description": "OP2 custom participation rates"
+        },
+        {
+          "id": "pr_asy",
+          "type": "PARTICIPATION_RATE",
+          "label": "ASY",
+          "values": {
+
+          },
+          "description": "ASY custom participation rates"
+        },
+        {
+          "id": "pr_vot",
+          "type": "PARTICIPATION_RATE",
+          "label": "VOT",
+          "values": {
+
+          },
+          "description": "VOT custom participation rates"
+        },
+        {
+          "id": "pr_ahp",
+          "type": "PARTICIPATION_RATE",
+          "label": "AHP",
+          "values": {
+
+          },
+          "description": "AHP custom participation rates"
+        }
+      ],
+      "arrival_distributions": [
+        {
+          "id": "arr_dist_vot",
+          "type": "ARRIVAL_DISTRIBUTION",
+          "label": "VOT",
+          "values": {
+
+          },
+          "description": "UHP custom monthly arrival distribution"
+        },
+        {
+          "id": "arr_dist_afr",
+          "type": "ARRIVAL_DISTRIBUTION",
+          "label": "AFR",
+          "values": {
+            "AFR": {
+              "2025": {
+                "apr": 0,
+                "aug": 0,
+                "dec": 0,
+                "feb": 0,
+                "jan": 0,
+                "jul": 0,
+                "jun": 0,
+                "mar": 0,
+                "may": 0,
+                "nov": 0,
+                "oct": 0,
+                "sep": 0
+              },
+              "2026": {
+                "apr": 0,
+                "aug": 200,
+                "dec": 0,
+                "feb": 0,
+                "jan": 0,
+                "jul": 200,
+                "jun": 200,
+                "mar": 0,
+                "may": 200,
+                "nov": 0,
+                "oct": 0,
+                "sep": 200
+              },
+              "2027": {
+                "apr": 833,
+                "aug": 834,
+                "dec": 833,
+                "feb": 833,
+                "jan": 833,
+                "jul": 834,
+                "jun": 834,
+                "mar": 833,
+                "may": 833,
+                "nov": 833,
+                "oct": 833,
+                "sep": 834
+              }
+            }
+          },
+          "description": "AFR custom monthly arrival distribution"
+        },
+        {
+          "id": "arr_dist_uhp",
+          "type": "ARRIVAL_DISTRIBUTION",
+          "label": "UHP",
+          "values": {
+
+          },
+          "description": "UHP custom monthly arrival distribution"
+        },
+        {
+          "id": "arr_dist_op1",
+          "type": "ARRIVAL_DISTRIBUTION",
+          "label": "OP1",
+          "values": {
+
+          },
+          "description": "OP1 custom monthly arrival distribution"
+        },
+        {
+          "id": "arr_dist_che",
+          "type": "ARRIVAL_DISTRIBUTION",
+          "label": "CHE",
+          "values": {
+
+          },
+          "description": "CHE custom monthly arrival distribution"
+        },
+        {
+          "id": "arr_dist_siv",
+          "type": "ARRIVAL_DISTRIBUTION",
+          "label": "SIV",
+          "values": {
+
+          },
+          "description": "SIV custom monthly arrival distribution"
+        },
+        {
+          "id": "arr_dist_op2",
+          "type": "ARRIVAL_DISTRIBUTION",
+          "label": "OP2",
+          "values": {
+
+          },
+          "description": "OP2 custom monthly arrival distribution"
+        },
+        {
+          "id": "arr_dist_ref",
+          "type": "ARRIVAL_DISTRIBUTION",
+          "label": "REF",
+          "values": {
+
+          },
+          "description": "REF custom monthly arrival distribution"
+        },
+        {
+          "id": "arr_dist_asy",
+          "type": "ARRIVAL_DISTRIBUTION",
+          "label": "ASY",
+          "values": {
+
+          },
+          "description": "ASY custom monthly arrival distribution"
+        },
+        {
+          "id": "arr_dist_ahp",
+          "type": "ARRIVAL_DISTRIBUTION",
+          "label": "AHP",
+          "values": {
+
+          },
+          "description": "AHP custom monthly arrival distribution"
+        }
+      ]
+    },
+    "scenarioId": 21,
+    "description": "Please add a description",
+    "fiscalYears": [
+      "fy2025",
+      "fy2026",
+      "fy2027"
+    ],
+    "populations": [
+      "AFR"
+    ],
+    "clonedFromId": 20,
+    "benefitsPeriods": [
+      {
+        "id": 937,
+        "end_date": null,
+        "createdAt": [2025, 10, 6, 12, 50, 2, 838544000],
+        "createdBy": "00utzdv5eoSgYEqmJ697",
+        "updatedAt": [2025, 10, 6, 12, 50, 2, 838550000],
+        "updatedBy": "00utzdv5eoSgYEqmJ697",
+        "scenarioId": 21,
+        "start_date": "05-01-2025",
+        "benefit_label": "Afrikaners",
+        "population_code": "AFR",
+        "benefit_period_months": 4
+      }
+    ],
+    "actual_arrival_date": [2025, 4, 25, 0, 0],
+    "population_categories": [
+      {
+        "ASY": "Base"
+      },
+      {
+        "AHP": "OAW"
+      },
+      {
+        "AFR": "AFR"
+      }
+    ],
+    "custom_participation_rates": true,
+    "custom_arrival_distribution": false
+  },
+  "is_draft": false,
+  "custom_participation_rates": true,
+  "custom_arrival_distribution": false,
+  "tags": [],
+  "cloned_from_id": 20,
+  "actual_arrival_date": "2025-04-25T00:00:00",
+  "created_at": "2025-10-06T12:49:47.179606",
+  "updated_at": "2025-10-06T12:50:12.073037"
+}
