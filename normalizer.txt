@@ -1,0 +1,92 @@
+/**
+ * Normalizes all values to strings in the data structure.
+ * This ensures consistency in the finalized_data JSON by converting all numbers to strings.
+ */
+private Map<String, Object> normalizeDataTypes(Map<String, Object> data) {
+    if (data == null) return null;
+    
+    Map<String, Object> normalized = new HashMap<>();
+    
+    for (Map.Entry<String, Object> entry : data.entrySet()) {
+        String key = entry.getKey();
+        Object value = entry.getValue();
+        
+        if (value instanceof Map) {
+            // Recursively normalize nested maps
+            @SuppressWarnings("unchecked")
+            Map<String, Object> nestedMap = (Map<String, Object>) value;
+            normalized.put(key, normalizeDataTypes(nestedMap));
+        } else if (value instanceof List) {
+            // Recursively normalize lists
+            @SuppressWarnings("unchecked")
+            List<Object> list = (List<Object>) value;
+            normalized.put(key, normalizeList(list));
+        } else if (value == null) {
+            // Keep null as null
+            normalized.put(key, null);
+        } else if (value instanceof String) {
+            // Already a string, keep as-is
+            normalized.put(key, value);
+        } else {
+            // Convert numbers, booleans, etc. to strings
+            normalized.put(key, String.valueOf(value));
+        }
+    }
+    
+    return normalized;
+}
+
+/**
+ * Normalizes all values in a list to strings.
+ */
+private List<Object> normalizeList(List<Object> list) {
+    if (list == null) return null;
+    
+    List<Object> normalized = new ArrayList<>();
+    
+    for (Object item : list) {
+        if (item instanceof Map) {
+            @SuppressWarnings("unchecked")
+            Map<String, Object> map = (Map<String, Object>) item;
+            normalized.add(normalizeDataTypes(map));
+        } else if (item instanceof List) {
+            @SuppressWarnings("unchecked")
+            List<Object> nestedList = (List<Object>) item;
+            normalized.add(normalizeList(nestedList));
+        } else if (item == null) {
+            normalized.add(null);
+        } else if (item instanceof String) {
+            normalized.add(item);
+        } else {
+            // Convert to string
+            normalized.add(String.valueOf(item));
+        }
+    }
+    
+    return normalized;
+}
+
+
+
+
+@Transactional
+public Scenario finalizeScenario(Long scenarioId) {
+    try {
+        Scenario scenario = findScenarioById(scenarioId);
+        
+        // Get scenario data
+        Map<String, Object> scenarioData = getScenarioDataByParameters(scenarioId);
+        
+        // Normalize all values to strings before saving
+        Map<String, Object> normalizedData = normalizeDataTypes(scenarioData);
+        
+        // Save the normalized data in finalizedData
+        scenario.setFinalizedData(normalizedData);
+        scenario.setIsDraft(false);
+        scenario.setUpdatedAt(LocalDateTime.now());
+        
+        return scenarioRepository.save(scenario);
+    } catch (DataAccessException ex) {
+        throw new DatabaseException("Error finalizing scenario with id: " + scenarioId, ex);
+    }
+}
